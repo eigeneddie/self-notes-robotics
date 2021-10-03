@@ -5,18 +5,25 @@ Robotics applied Concepts:
 2. robotic manipulation: https://manipulation.csail.mit.edu/
 3. design and control of haptic systems: https://web.stanford.edu/class/me327/
 4. introductino to mobile robotics: http://ais.informatik.uni-freiburg.de/teaching/ss20/robotics/
+5. Robotic perception: https://www.coursera.org/learn/robotics-perception
+
 
 Data Driven modeling tools:
 1.  intro to deep learning: http://introtodeeplearning.com/
 2.  full stack deep learning: https://fullstackdeeplearning.com/spring2021/
 3.  data driven engineering & data science: https://www.youtube.com/c/Eigensteve/playlists
-4.  
+
+Control systems specifics:
+1. Control boot camp
+2. discrete control systems
+3. 
 
 Fundamental understanding to tread upon (mixed math-CS-ME):
 1. modern C++11: https://www.youtube.com/playlist?list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C
 2. undergraduate computer science curriculum: https://github.com/orgs/ossu/repositories
 3. Geometric dimensioning and tolerance: https://www.youtube.com/watch?v=a3uBWU9TlUg&list=PL1IHA35xY5H7HomHQY9nDwifWYvH_Aa1n
-4. convex optimization: https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3940DD956CDF0622
+4. Stack up tolerences
+5. convex optimization: https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3940DD956CDF0622
 
 
 
