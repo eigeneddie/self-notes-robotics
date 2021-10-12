@@ -30,3 +30,20 @@ Fundamental understanding to tread upon (mixed math-CS-ME):
 Bonus: 
 1. light reading of cutting edge research: https://dspace.mit.edu/
 
+Brian Douglas in Matlab:
+1. understanding PID: https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y
+2. Discrete control: https://www.youtube.com/playlist?list=PLUMWjy5jgHK0MLv6Ksf-NHi7Ur8NRNU4Z
+3. Drone simulation and control : https://www.youtube.com/playlist?list=PLn8PRpmsu08oOLBVYYIwwN_nvuyUqEjrj
+4. state space: https://www.youtube.com/playlist?list=PLn8PRpmsu08podBgFw66-IavqU2SqPg_w
+5. design motor controller (not brian douglas): https://www.youtube.com/playlist?list=PLn8PRpmsu08pqegLB5CqfgZCtuK5UKIrx
+6. robust control: https://www.youtube.com/playlist?list=PLn8PRpmsu08qFLMfgTEzR8DxOPE7fBiin
+7. autonomous navigation: https://www.youtube.com/playlist?list=PLn8PRpmsu08rLRGrnF-S6TyGrmcA2X7kg
+8. systems engineering: https://www.youtube.com/playlist?list=PLn8PRpmsu08owzDpgnQr7vo2O-FUQm_fL
+9. deep learning for engineers: https://www.youtube.com/playlist?list=PLn8PRpmsu08ol7qVBak-RUKrBNkn3H58R
+10. learning based control: https://www.youtube.com/playlist?list=PLn8PRpmsu08qMgKOkTdhg6sT715k1cP3t
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
