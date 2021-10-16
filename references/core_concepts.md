@@ -41,3 +41,8 @@ Brian Douglas in Matlab:
 8. systems engineering: https://www.youtube.com/playlist?list=PLn8PRpmsu08owzDpgnQr7vo2O-FUQm_fL
 9. deep learning for engineers: https://www.youtube.com/playlist?list=PLn8PRpmsu08ol7qVBak-RUKrBNkn3H58R
 10. learning based control: https://www.youtube.com/playlist?list=PLn8PRpmsu08qMgKOkTdhg6sT715k1cP3t
+
+Optical engineering:
+1. MIT courseware: https://ocw.mit.edu/courses/mechanical-engineering/2-717j-optical-engineering-spring-2002/
+2. coursera optical engineering specialization: https://www.coursera.org/specializations/optical-engineering#courses
+3.
