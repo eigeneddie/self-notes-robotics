@@ -1,4 +1,5 @@
 # Niche: Model and data based control systems engineer skill set
+Also possible RARE AND VALUABLE SKILLS
 
 Robotics applied Concepts:
 1. underactuated robotics: http://underactuated.csail.mit.edu/
