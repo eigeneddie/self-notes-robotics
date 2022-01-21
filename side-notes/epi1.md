@@ -4,10 +4,6 @@ What is the most important thing to learn at early stages of life? (Important th
 
 How important is the role of a teacher as oppose to people who just do "self learning" such as reading books on their own, taking online courses, working, etc? (Teachers)
 
-work smart vs work hard? (Work smart or hard?)
-
-Skill vs passion? (Skill or passion?)
-
 do you think the current education system is doing enough to educate our generation for what's ahead of them in a world that is increasingly competitive? automation, age of AI, climate change, economic disparity, etc. (Is the current education system enough?)
 
 there has been a data where 63% of people in the work force did not pursue a career that aligns with what they studied during college. why is this happening? is it a huge problem? what are the implication to the future of our generation if this happens and how can we solve this in a structural level? what are the challenge? (Fixing education)
@@ -28,6 +24,10 @@ favorite STEM concept you would like people to know
 (Favorite STEM concept)
 
 Luck, hardwork, self-made, Elon musk: your thoughts on the notion of the hustle culture where you have to keep working to achieve a better life. is there work life balance? (Hustle culture)
+
+work smart vs work hard? (Work smart or hard?)
+
+Skill vs passion? (Skill or passion?)
 
 Advice for young people
 
