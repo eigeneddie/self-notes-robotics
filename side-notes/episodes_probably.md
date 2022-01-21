@@ -2,7 +2,7 @@ Side gig plan
 
 a podcast?
 
-episode 1: Rethinking education and productivity
+episode 1: Rethinking education
 
 episode 2: Modern physics and ordinary people 
 
