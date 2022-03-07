@@ -1,4 +1,6 @@
-# Niche: Model and data based control systems engineer skill set
+# Niche: Mechatronics system integration specialist Curriculum
+
+Model and data based control systems engineer skill set
 Also possible RARE AND VALUABLE SKILLS
 
 **A. Applied Robotics Concepts**:
