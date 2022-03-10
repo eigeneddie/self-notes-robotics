@@ -14,9 +14,14 @@ What's a great name?
 for now:
 
 The Sutawika Post ..?
+The Gardex Page
+possible URL: gardexpage(dot)com
+
 sections:
 1. Home
 2. Blogs
 3. Videos
-4. Portfolio (work and art)
-5. About me
+4. Podcast
+5. Portfolio (work and art)
+6. About
+7. Contact
