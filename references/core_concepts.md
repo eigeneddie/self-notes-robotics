@@ -31,7 +31,7 @@ Also possible RARE AND VALUABLE SKILLS
 2. undergraduate computer science curriculum: https://github.com/orgs/ossu/repositories
 3. Geometric dimensioning and tolerance: https://www.youtube.com/watch?v=a3uBWU9TlUg&list=PL1IHA35xY5H7HomHQY9nDwifWYvH_Aa1n
 4. Stack up tolerences
-5. convex optimization: https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3940DD956CDF0622
+5. convex optimization: https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3940DD956CDF0622, https://alexandreamice.github.io/courses/6.S098/
 
 **E. Brian Douglas in Matlab**:
 1. understanding PID: https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y
