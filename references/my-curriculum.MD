@@ -8,51 +8,51 @@ Courses
 7. Python Deliberate practice (P-dp)
 
 Note
-  6 hours of deliberate practice sessions everyday
-  42 hours of deliberate practice every week
-  2160 hours every year
+1. 6 hours of deliberate practice sessions everyday
+2. 42 hours of deliberate practice every week
+3. 2160 hours every year
 
 Monday
-06.00 - 08.00 CVDL
-08.00 - 10.00 GDT
-19.00 - 20.00 C-dp
-20.00 - 21.00 P-dp
+1. 06.00 - 08.00 CVDL
+2. 08.00 - 10.00 GDT
+3. 19.00 - 20.00 C-dp
+4. 20.00 - 21.00 P-dp
 
 Tuesday
-06.00 - 08.00 CVDL
-08.00 - 10.00 GDT
-19.00 - 20.00 C-dp
-20.00 - 21.00 P-dp
+1. 06.00 - 08.00 CVDL
+2. 08.00 - 10.00 GDT
+3. 19.00 - 20.00 C-dp
+4. 20.00 - 21.00 P-dp
 
 Wednesday
-06.00 - 08.00 CVDL
-08.00 - 10.00 GDT
-19.00 - 20.00 C-dp
-20.00 - 21.00 P-dp
+1. 06.00 - 08.00 CVDL
+2. 08.00 - 10.00 GDT
+3. 19.00 - 20.00 C-dp
+4. 20.00 - 21.00 P-dp
 
 Thursday
-06.00 - 08.00 CVDL
-08.00 - 10.00 CFD
-19.00 - 20.00 C-dp
-20.00 - 21.00 P-dp
+1. 06.00 - 08.00 CVDL
+2. 08.00 - 10.00 CFD
+3. 19.00 - 20.00 C-dp
+4. 20.00 - 21.00 P-dp
 
 Friday
-07.00 - 09.00 CVDL
-09.00 - 11.00 FEA
-19.00 - 20.00 C-dp
-20.00 - 21.00 P-dp
+1. 06.00 - 08.00 CVDL
+2. 08.00 - 10.00 FEA
+3. 19.00 - 20.00 C-dp
+4. 20.00 - 21.00 P-dp
 
 Saturday
-07.00 - 09.00 CVDL
-09.00 - 11.00 UndrR
-19.00 - 20.00 C-dp
-20.00 - 21.00 P-dp
+1. 06.00 - 08.00 CVDL
+2. 08.00 - 10.00 UndrR
+3. 19.00 - 20.00 C-dp
+4. 20.00 - 21.00 P-dp
 
 Sunday
-07.00 - 09.00 CVDL
-09.00 - 11.00 GDT
-19.00 - 20.00 C-dp
-20.00 - 21.00 P-dp
+1. 06.00 - 08.00 CVDL
+2. 08.00 - 10.00 GDT
+3. 19.00 - 20.00 C-dp
+4. 20.00 - 21.00 P-dp
 
 
 
