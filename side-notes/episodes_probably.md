@@ -20,4 +20,4 @@ episode 8: Cryptocurrency, computer vision, remote work
 
 episode 9: Science, art, and live-streaming
 
-episode 10: 
+episode 10: Inspiring STEM 
